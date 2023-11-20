@@ -2,3 +2,5 @@
 Added some text
 
 Added text from VS Code
+
+Added text from GitHub to create conflict
