@@ -5,5 +5,9 @@ class Program {
 
         System.out.println(str);
     }
+
+    public static void myFunction() {
+        System.out.println("My function");
+    }
     
 }
